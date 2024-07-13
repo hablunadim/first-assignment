@@ -250,11 +250,128 @@ nav li a {
     color: rgb(13, 19, 33);
     font-size: 32px;
     font-weight: 800;
-    
+
 }
 
 .video-text-contain p {
     or: rgb(13, 19, 33);
     font-size: 16px;
     font-weight: 400;
+}
+
+/* titel-section-container-sytle */
+
+.titel-section-container {
+    width: 1140px;
+    height: 1437px;
+    margin: o auto;
+    border: 2px solid red;
+    margin-top: 100px;
+}
+
+.text-contain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.text-contain h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.text-contain p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.link-container {
+    width: 1140px;
+    height: 800px;
+    display: flex;
+    padding: 20px;
+
+}
+
+.html-link-contain {
+    width: 30%;
+    height: 30%;
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.html-link-contain img {
+    width: 56px;
+    height: 56px;
+}
+
+.html-link-contain h2 {
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.html-link-contain p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.learm{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 800;
+
+}
+
+.css-link-contain {
+    width: 30%;
+    height: 30%;
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 30px;
+    border-radius: 10px;
+}
+img {
+    width: 56px;
+    height: 56px;
+}
+
+.css-link-contain h2 {
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.css-link-contain p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.jaba-link-contain {
+    width: 30%;
+    height: 30%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.jaba-link-contain img{
+    width: 56px;
+    height: 56px;
+}
+.jaba-link-contain h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+.jaba-link-contain p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;   
 }
