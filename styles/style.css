@@ -114,6 +114,11 @@ nav li a {
     font-weight: 400;
 }
 
+.rishtside_contain img {
+    width: 259.56px;
+    height: 217.01px;
+}
+
 .first-section-container {
     width: 850px;
     height: 240px;
@@ -132,6 +137,11 @@ nav li a {
 .lefiside-contain {
     width: 50%;
     height: 50%;
+}
+
+.lefside-contain img {
+    width: 259.56px;
+    height: 217.01px;
 }
 
 .lefiside-contain h2 {
@@ -174,6 +184,11 @@ nav li a {
     width: 50%;
     height: 50%;
 
+}
+
+.rightside-contain img {
+    width: 259.56px;
+    height: 217.01px;
 }
 
 .rishtside-contain {
@@ -265,7 +280,6 @@ nav li a {
     width: 1140px;
     height: 1437px;
     margin: o auto;
-    border: 2px solid red;
     margin-top: 100px;
 }
 
@@ -323,7 +337,7 @@ nav li a {
     font-weight: 400;
 }
 
-.learm{
+.learm {
     color: rgb(13, 19, 33);
     font-size: 16px;
     font-weight: 800;
@@ -337,6 +351,7 @@ nav li a {
     padding: 30px;
     border-radius: 10px;
 }
+
 img {
     width: 56px;
     height: 56px;
@@ -361,17 +376,20 @@ img {
     border-radius: 10px;
     background-color: rgba(255, 223, 0, 0.05);
 }
-.jaba-link-contain img{
+
+.jaba-link-contain img {
     width: 56px;
     height: 56px;
 }
-.jaba-link-contain h2{
+
+.jaba-link-contain h2 {
     color: rgb(13, 19, 33);
     font-size: 24px;
     font-weight: 800;
 }
-.jaba-link-contain p{
+
+.jaba-link-contain p {
     color: rgb(13, 19, 33);
     font-size: 16px;
-    font-weight: 400;   
+    font-weight: 400;
 }
